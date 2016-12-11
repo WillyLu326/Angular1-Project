@@ -1,0 +1,22 @@
+{
+  "name": "angular1-e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyLu326/Angular1-Project.git"
+  },
+  "keywords": [
+    "angular-1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillyLu326/Angular1-Project/issues"
+  },
+  "homepage": "https://github.com/WillyLu326/Angular1-Project#readme"
+}
