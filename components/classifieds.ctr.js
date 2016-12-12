@@ -3,10 +3,10 @@
 
 	angular
 		.module('classifieds')
-		.controller('classifiedsCtrl', function($scope) {
+		.controller('classifiedsCtrl', ['$scope', function($scope) {
 			$scope.name = {
 				first: 'Willy',
 				last: 'Lu'
 			};
-	   });
+	   }]);
 })();
