@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/WillyLu326/Angular1-Project/issues"
   },
-  "homepage": "https://github.com/WillyLu326/Angular1-Project#readme"
+  "homepage": "https://github.com/WillyLu326/Angular1-Project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }

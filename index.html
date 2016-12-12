@@ -18,6 +18,7 @@
 
 	<script type="text/javascript" src="scripts/myapp.js"></script>
 	<script type="text/javascript" src="components/classifieds.ctr.js"></script>
+	<script type="text/javascript" src="components/classifieds.fac.js"></script>
 </head>
 <body ng-app="classifieds" ng-controller="classifiedsCtrl">
 
@@ -78,13 +79,11 @@
 			        <h3>Admin</h3>
 			        <div layout="row">
 			          	<md-button 
-			            	class="md-primary"
-			            	ng-click="vm.editClassified(classified)">
+			            	class="md-primary">
 			            	Edit
 			          	</md-button>
 			          	<md-button 
-			            	class="md-warn"
-			            	ng-click="vm.deleteClassified($event, classified)">
+			            	class="md-warn">
 			            	Delete
 			          	</md-button>
 			        </div>
