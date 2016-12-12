@@ -6,4 +6,3 @@ angular
         	.accentPalette('orange');
 	});
 
-// angular.module('classifieds', []);
